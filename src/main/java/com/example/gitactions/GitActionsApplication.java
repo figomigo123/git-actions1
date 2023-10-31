@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class GitActionsApplication {
 @GetMapping("/")
 public String home(){
-    return "hello from spring boot 1";
+    return "hello from spring boot 2";
 }
 
 
