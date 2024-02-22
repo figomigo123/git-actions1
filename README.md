@@ -3,7 +3,7 @@
 
 #### Last Stand.
 
-| Requirement                      | Verb   | URI             | 
-|----------------------------------|--------|-----------------|
-| (1) Get Data like client `email` | GET    | /clients/email  |   
-| (2) Add Data like new client     | POST   | /clients        |
+| Requirement          | Verb   | URI             | 
+|----------------------|--------|-----------------|
+| (1) Get client email | GET    | /clients/email  |   
+| (2) Add new client   | POST   | /clients        |
